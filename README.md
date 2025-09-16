@@ -22,7 +22,7 @@ Classic OWASP taught web devs what to fear. Now, the LLM era stretches the attac
 
 ---
 
-## The Top 10 — Explained with Teeth 🗿
+## The Top 10 🗿
 
 ### 1) Prompt Injection
 
